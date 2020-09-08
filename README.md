@@ -8,3 +8,6 @@ Then the codedriver file put it in where your Python file is install.I have it i
 Here you can copy the code runner.
 we can run the file in Google browser.
 
+In my code Line 39 : er = TwitterBot('put your username / g-mail', 'password')
+You have to put a username and password.
+
